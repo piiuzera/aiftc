@@ -1,0 +1,13 @@
+AB: 0 1
+i: A
+f: E
+A 0 A
+A 1 A B
+B 0 C
+B 1
+C 0
+C 1 D
+D 0 E
+D 1
+E 0
+E 1
