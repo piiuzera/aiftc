@@ -1,6 +1,6 @@
-# Convers„o AFN para AFD
+# Convers√£o AFN para AFD
 
-####Atividade Autoinstrucional - 1/2016
-####Fundamentos TeÛricos da ComputaÁ„o
-####Universidade FUMEC
-####Prof. Alair Dias Junior
+#### Atividade Autoinstrucional - 1/2016
+#### Fundamentos Te√≥ricos da Computa√ß√£o
+#### Universidade FUMEC
+#### Prof. Alair Dias Junior
